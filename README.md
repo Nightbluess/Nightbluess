@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com/search?sca_esv=f3ed14a816e3a85c&sca_upv=1&sxsrf=ADLYWIIbgtZ1TeuFQCU6F87D3pS74wA1_A:1727628691734&q=software&udm=2&fbs=AEQNm0CgMcZ11KbHg1uunEmuo39LYaLxf_n_v5Qu9vkTINnKPNxSSRV--bGiJa6CXOAP_uiHPbLwpiGDt9Ut9ZZcy-dTxfLVgcDNKdIldTW0UXXfrlVa5HhrpRVV9jSgKdtoT8wbth9LVXSMmaslV8PlfG2Dca5XnntdpiGnzCFFhzq1IunKyUDE2dZCkE8FUOzd0YlwWWKSH_yRE7CIPWnybQNskLgVkQ&sa=X&ved=2ahUKEwiD1OWzzuiIAxVlcfEDHR2yJ7cQtKgLegQIHBAB&biw=1559&bih=959&dpr=1#vhid=n4VGvJGCpFvt4M&vssid=mosaic
+
 
 
 <h1 align="center">Hi 👋, I'm Yasin Özkan</h1>
